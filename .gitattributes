@@ -1,3 +1,6 @@
+#Jupyter notebook filtering
+*.ipynb    filter=dropoutput_ipynb
+
 # Auto detect text files and perform LF normalization
 * text=auto
 
